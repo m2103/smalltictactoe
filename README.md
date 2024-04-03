@@ -7,15 +7,18 @@ e.g
 
 ```> ___
 > ___
-> ___```
+> ___
+```
 
 If it's O's turn:
 
-```< 0 0```
+```< 0 0
+```
 
 ```> O__
 > ___
-> ___```
+> ___
+```
 
 If it's out of bounds, or you try to input something in an filled location, the program will ask you to input a correct coordinate.
 If something other than an integer is provided in input, the program will exit.
