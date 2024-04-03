@@ -43,4 +43,4 @@ If something other than an integer is provided in input, the program will exit.
 :)
 
 
-Compile the program with 'g++-11 -std=c++20 -Wall -g', and just run it from the terminal
+Compile the program with ` g++-11 -std=c++20 -Wall -g `, and just run it from the terminal
