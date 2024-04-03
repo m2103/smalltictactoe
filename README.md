@@ -16,10 +16,24 @@ If it's O's turn:
 ```
 < 0 0
 ```
+will produce
 
 ```
 > O__
 > ___
+> ___
+```
+
+Then, since it's now X's turn, 
+
+```
+< 1 1
+```
+will produce
+
+```
+> O__
+> _X_
 > ___
 ```
 
