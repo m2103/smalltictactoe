@@ -5,17 +5,20 @@ to place an X or an O, type the coordinates of the location in the grid.
 e.g
 
 
-```> ___
+```
+> ___
 > ___
 > ___
 ```
 
 If it's O's turn:
 
-```< 0 0
+```
+< 0 0
 ```
 
-```> O__
+```
+> O__
 > ___
 > ___
 ```
